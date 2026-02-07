@@ -1,84 +1,98 @@
-# 👋 ¡Hola! Soy Maycol Estiven Yepes Zambrano
+# 🌐 NovaAndes Software Solutions
 
-🚀 **Desarrollador Full Stack | Gestor de Proyectos | Analista de Datos**  
-📍 Soacha, Colombia
+🚀 **Tecnología de vanguardia | Innovación andina para tu futuro digital**
 
-Apasionado por desarrollar soluciones robustas y escalables. Combino la gestión técnica de proyectos con un enfoque moderno en tecnologías como **React, Python, Node.js, Docker y Cloud Computing**.
+Desde el corazón de los Andes colombianos, **NovaAndes Software** transforma ideas en soluciones tecnológicas escalables, seguras y orientadas a resultados, impulsando la transformación digital de empresas y emprendedores.
 
----
-
-## 🔥 Sobre Mí
-
-Soy un desarrollador Full Stack con experiencia en gestión de tecnología, desarrollo web, automatización de procesos y análisis de datos. Actualmente desempeño el rol de **Coordinador de Tecnología en Yes BPO**, liderando proyectos de software y soluciones escalables.
-
-🌱 Me interesa:  
-- Inteligencia Artificial  
-- Arquitectura Cloud  
-- DevOps y automatización
-
-🎓 Tecnólogo en Gestión de Tecnología de la Información (en curso)  
-💡 Dato curioso: ¡Automatizo tareas por diversión! 🤖
+🌎 Sitio web: https://novaandessoftwaresas.pages.dev
 
 ---
 
-## 💻 Stack Tecnológico
+## 🧠 ¿Quiénes Somos?
 
-Estas son algunas de las tecnologías con las que trabajo regularmente:
+NovaAndes Software es una empresa de tecnología enfocada en el desarrollo de soluciones digitales modernas, confiables y adaptadas a las necesidades reales del negocio.
 
-- **Frontend:** React, Next.js, JavaScript, CSS3  
-- **Backend:** Node.js, Express, NestJS, Python, RESTful APIs  
-- **Bases de Datos:** MySQL, MongoDB  
-- **DevOps / Infraestructura:** Docker, Linux, DigitalOcean  
-- **Herramientas y Otros:** Git, Power BI, Asterisk
+Contamos con experiencia en múltiples sectores y ofrecemos acompañamiento completo desde la idea inicial hasta la implementación, soporte y escalamiento de cada proyecto.
 
----
-
-## 🚀 Proyectos Destacados
-
-### 📌 AppCenter - WhatsApp Business API  
-Aplicativo para envío masivo de mensajes de WhatsApp Business con gestión de plantillas, perfiles y respuestas automáticas.  
-**Tecnologías:** Node.js, Express, WhatsApp Business API, MongoDB, React.
+📈 **150+ proyectos exitosos**  
+⭐ **98 % satisfacción del cliente**  
+🕒 **Soporte técnico 24/7**  
+🏔️ **Innovación desde Colombia para el mundo**
 
 ---
 
-### 📌 CRM Empresarial para Gestión de Cartera  
-CRM personalizado con módulos de seguimiento, asignación de tareas y reportes para procesos de cartera.  
-**Tecnologías:** React, Node.js, MySQL, Express, RESTful API.
+## 🛠️ Servicios Tecnológicos
+
+### 💻 Desarrollo Web & Aplicaciones
+- Páginas web corporativas
+- Aplicaciones web modernas
+- Progressive Web Apps (PWA)
+- UX/UI optimizado
+- SEO técnico
+
+**Tecnologías:** React, Next.js, JavaScript
 
 ---
 
-### 📌 Servidor SIP con Asterisk para WhatsApp  
-Implementación de servidor SIP usando Asterisk para integrar llamadas desde WhatsApp dentro de un sistema VoIP centralizado.  
-**Tecnologías:** Asterisk, Linux, SIP Protocol, VoIP.
+### ⚙️ Automatización RPA
+Optimización de procesos empresariales con automatización inteligente:
+- Reducción de costos operativos
+- Eliminación de errores manuales
+- Escalabilidad y disponibilidad 24/7
 
 ---
 
-### 📌 Zona de Mascotas - Web de Estética  
-Sitio web enfocado en estética canina con diseño React y optimización SEO para motores de búsqueda.  
-**Tecnologías:** React, JavaScript, CSS, Responsive Design.
+### 🤖 Inteligencia Artificial & Machine Learning
+Soluciones de IA personalizadas para empresas:
+- Modelos predictivos
+- Procesamiento de lenguaje natural (NLP)
+- Computer Vision
 
 ---
 
-### 📌 Portafolio Web Profesional  
-Mi portafolio personal con multilenguaje, formulario de contacto con EmailJS y diseño responsive.  
-**Tecnologías:** Next.js, React, EmailJS, JavaScript, SEO.
+### ☁️ Cloud Solutions
+Arquitecturas modernas y escalables en la nube:
+- AWS, Azure y Google Cloud
+- Serverless
+- DevOps
+- CI/CD
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
-
-🔭 Aquí puedes ver algunos de mis proyectos, aportes y contribuciones a la comunidad.  
-*(Puedes agregar aquí los GitHub Readme Stats o GitHub Activity Card si quieres visuales dinámicos)*
-
----
-
-## 📫 Conectemos
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/maycol-yepes  
-- 🧑‍💻 Portfolio: *(si tienes link)*  
-- 📧 Email: `novaandessoftware@gmail.com`
+### 📊 Big Data & Analytics
+Convierte datos en decisiones estratégicas:
+- Dashboards en tiempo real
+- Business Intelligence
+- Análisis de grandes volúmenes de datos
 
 ---
 
-> _“El código es como el humor. Cuando tienes que explicarlo, es malo.”_
+### 🔐 Ciberseguridad
+Protección integral de activos digitales:
+- Pruebas de vulnerabilidad (Pentesting)
+- Auditorías de seguridad
+- Cumplimiento normativo (Compliance)
+
+---
+
+## 🧩 Filosofía
+
+En NovaAndes creemos en:
+- Soluciones bien diseñadas y escalables
+- Seguridad desde el inicio
+- Tecnología alineada con el negocio
+- Acompañamiento continuo al cliente
+
+---
+
+## 📞 Contacto
+
+📧 Email: novaandessoftware@gmail.com  
+🌐 Web: https://novaandessoftwaresas.pages.dev  
+📍 Colombia – Servicios para LATAM y remoto
+
+---
+
+© 2025 **NovaAndes Software**  
+Innovación tecnológica desde los Andes colombianos para el mundo digital.
 
