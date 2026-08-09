@@ -4,7 +4,7 @@
 
 Desde el corazón de los Andes colombianos, **NovaAndes Software** transforma ideas en soluciones tecnológicas escalables, seguras y orientadas a resultados, impulsando la transformación digital de empresas y emprendedores.
 
-🌎 Sitio web: https://novaandessoftware.site
+🌎 Sitio web: https://novaandessoftware.com
 
 ---
 
